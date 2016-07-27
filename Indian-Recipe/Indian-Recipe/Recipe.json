@@ -1,0 +1,281 @@
+ [
+  
+  {
+		"Recipe Name": "Mutton Biryani",
+  
+        "Recipe Image":"MuttonBiryani.jpg",
+  
+		"Ingredidents": [
+                         "1.Rice or basmati rice - 1 kilogram ",
+                         "2.Goat or lamb meat - 1 kilogram ",
+                         "3.Thinly sliced Onion - 4",
+                         "4.Chopped Tomato - 3 ",
+                         "5.Slit Green chili - 5 ",
+                         "6.Ginger garlic paste - 3 teaspoon (tsp.) ",
+                         "7.Chili powder - 1 teaspoon (tsp.) ",
+                         "8.Black pepper powder - 1 1/2 teaspoon (tsp.) ",
+                         "9.Cumin powder - 1 1/2 teaspoon (tsp.) ",
+                         "10.Turmeric powder - 1 teaspoon (tsp.) ",
+                         "11.Fennel seed powder - 1 teaspoon (tsp.) ",
+                         "12.Biryani masala powder - 2 teaspoon (tsp.) ",
+                         "13.Tomato sauce - 1 teaspoon (tsp.) ",
+                         "14.Cinnamon stick - 2 inch ",
+                         "15.Cloves - 5 ",
+                         "16.Cardamom - 4 ",
+                         "17.Mint leaf - from 5 stalks (stems) or 1/2 cup ",
+                         "18.Coriander leaf - from 5 stalks (stems) or 1/2 cup ",
+                         "19.Yogurt or curd - 1/2 cup ",
+                         "20.Rose water - 1 teaspoon (tsp.)",
+                         "21.Lemon - 1 ",
+                         "22.Vinegar - 1 teaspoon (tsp.)",
+                         "23.Oil - 100 milliliter ",
+                         "24.Salt - as needed "
+                         ],
+  
+		"Descriptipn": [
+                        "1.Wash and drain the water from the mutton ",
+                        
+                        "2.Add mutton, vinegar, 1 teaspoon (tsp.) of ginger garlic paste, 1/2 teaspoon (tsp.) of turmeric powder, salt, water as needed in a pressure cooker. Pressure cook the mutton for 5 whistle. ",
+                        
+                        "3.Soak the rice for 15 minutes and filter the water from it. Lightly roast the rice in a  in ghee and keep it aside. NOTE:  rice will turn translucent. ",
+                        
+                        "4.In a pan heat oil, add cloves, cinnamon stick, cardamom and sauté for a minute. ",
+                        
+                        "5.Now add the onion, green chili and sauté until the onion turns translucent (golden brown) ",
+                        
+                        "6.Now add rest of the ginger garlic paste, mint leaves and sauté until raw smell is gone. ",
+                        
+                        "7.Now add chili powder, tomato and sauté until oil separates. ",
+                        
+                        "8.Now add black pepper powder, cumin seed powder, rest of the turmeric powder, fennel seed powder, biryani masala powder, yogurt or curd, tomato sauce, salt, rose water, lemon juice from 1 lemon, cooked mutton. Simmer and cook the mutton until oil separates ",
+                        
+                        "9.Now add 1 rice : 1 1/2 water ratio  and bring to boil. ",
+                        
+                        "10.Now add the roasted rice. Cover with a lid. Simmer and cook for 20 minutes. Add coriander leaves before you remove from stove. ",
+                        
+                        "11.Yummy Muslim mutton biryani is ready."
+                        ]
+  }, {
+		"Recipe Name": "Chicken Biryani",
+        "Recipe Image":"ChickenBiryani.jpg",
+  
+		"Ingredidents": [
+                         "1.Basmati Rice - 2 cups ",
+                         "2.Chicken Pieces - 3/4 kg ",
+                         "3.Milk - 1/2 cup",
+                         "4.Yogurt (curd) - 1 cup ",
+                         "5.sliced onion - 3 ",
+                         "6.Ginger Paste - 1 tablespoon (tbsp) ",
+                         "7.Garlic Paste - 1/2 tablespoon (tbsp)",
+                         "8.Green Chili Paste - 1 tablespoon (tbsp)",
+                         "9.Tomato Puree - 1/2 cup ",
+                         "10.Red Chili Powder - 2 teaspoon (tsp)",
+                         "11.Turmeric Powder - 1 teaspoon (tsp)",
+                         "12.Roasted cumin powder - 1 teaspoon (tsp)",
+                         "13.Garam Masala Powder - 2 teaspoon (tsp)",
+                         "14.Green Cardamom Powder - 1/2 teaspoon (tsp)",
+                         "15.Coriander Powder - 1 teaspoon (tsp)",
+                         "16.Saffron(optional) - a pinch",
+                         "17.Green Coriander Leaves - 2 tablespoon (tbsp) ",
+                         "18.Salt - to taste ",
+                         "19.Oil - as needed (1/4 cup)"
+                         ],
+  
+		"Descriptipn": [
+                        "1.Mix tomato puree, yogurt, ginger garlic paste, green chili paste, red chili powder, turmeric powder, roasted cumin powder, garam masala, coriander powder and salt. Stir well.",
+                        
+                        "2.Marinate the chicken with this mixture and keep aside for 3-4 hours",
+                        
+                        "3.Heat oil in a pan. Fry the onions until golden brown. ",
+                        
+                        "4.Add the marinated chicken and cook for 10 minutes.",
+                        
+                        "5.Add 4 cups of water to the rice. Mix saffron in milk and add to it.",
+                        
+                        "6.Add cardamom powder. Add the chicken pieces.",
+                        
+                        "7.Pressure cook the rice. Mix gently.",
+                        
+                        "8.Garnish with green coriander leaves and serve hot."
+                        ]
+  
+  }, {
+		"Recipe Name": "Vegetable Biryani",
+  
+  "Recipe Image":"Vegetable.jpg",
+  
+		"Ingredidents": [
+                         "1.Basmati Rice - 350 grams",
+                         "2.Potatoes - 200 grams",
+                         "3.Carrots - 200 grams",
+                         "4.Onions - 100 grams",
+                         "5.Green Chilies - 4",
+                         "6.Ginger - 30 grams or 1 inch",
+                         "7.Garlic - 20 grams or 10 ",
+                         "8.Turmeric Powder - 1/2 table spoon",
+                         "9.Red Chili Powder - 1 table spoon",
+                         "10.Saffron (optional) - 1 table spoon",
+                         "11.Curd or yogurt - 1 cup",
+                         "12.Milk - 2 table spoon",
+                         "13.Mint (Pudina leaves ) - 1/3 cup",
+                         "14.Coriander Leaves - 1/3 cup",
+                         "15.Rose Water (optional) - 4 table spoon",
+                         "16.Cashew nuts - 50 grams",
+                         "17.Almonds - 50 grams",
+                         "18.Raisins - 25 grams",
+                         "19.salt to taste",
+                         "20.Ghee -120grams"
+                         ],
+  
+		"Descriptipn": [
+                        "1.Wash and soak the basmati rice for half an hour. Drain the water. Put the rice, some more water and add half the whole garam masala and salt in a pan.",
+                        
+                        "2.Bring the rice to a boil and cook until the rice is done. Drain and keep aside.",
+                        
+                        "3.Dice the peeled potatoes and carrots and wash them. Slice the onions and green chilies. ",
+                        
+                        "4.Peel ginger and garlic and chop finely. Chop the coriander and mint leaves.",
+                        
+                        "5.Soak the almonds in water for half an hour and keep aside.",
+                        
+                        "6.Beat the curd in a bowl and divide into two equal portions.",
+                        
+                        "7.Dissolve saffron in warm milk and add it to one portion of the curd mixture.",
+                        
+                        "8.Heat ghee, add the remaining garam masala and sauté over medium heat until it begins to crackle.",
+                        
+                        "9.Add onions until golden brown. Then add green chilies, ginger, garlic and stir for a minute.",
+                        
+                        "10.Add turmeric and chili powder, sauté for half a minute add the chopped vegetables and stir for a minute.",
+                        
+                        "11.Add the portion of plain curd, stir, add 2/3 cup water, and bring to a boil, then simmer until the vegetables are cooked.",
+                        
+                        "12.Add the dry fruits and nuts when the vegetables are done",
+                        
+                        "13.In the handi with the cooked vegetables, sprinkle little saffron curd, mint and coriander.",
+                        
+                        "14.Then spread half the rice and again sprinkle the remaining saffron-curd, mint and coriander and top it with the remaining rice.",
+                        
+                        "15.Place a moist cloth on top, cover the lid tightly so that it gets sealed.",
+                        
+                        "16.Put the handi on dum in a pre-heated oven for 15-20 minutes",
+                        
+                        "17.Serve the biryani hot with mint chutney and other vegetables."
+                        ]
+  }, {
+		"Recipe Name": "Chettinad Chicken kurma recipe",
+  
+  "Recipe Image":"ChettinadChickenkurma.jpg",
+  
+		"Ingredidents": [
+                         "1.Chicken pieces - 1/2 kilogram ",
+                         "2.Slit Green chili - 4 ",
+                         "3.Cumin seed - 1 teaspoon (tsp.) ",
+                         "4.Mustard seed - 1 teaspoon (tsp.) ",
+                         "5.Ginger paste - 1 teaspoon (tsp.) ",
+                         "6.Garlic paste  - 1 teaspoon (tsp.)  ",
+                         "7.Coriander leaf - from 1/2 bunch ",
+                         "8.Curry leaf - 8 ",
+                         "9.Coriander seed - 3 teaspoon (tsp.) ",
+                         "10.Shredded coconut - from 1/2 coconut ",
+                         "11.Finely chopped Onion - 250 grams ",
+                         "12.Yogurt  - 100 grams",
+                         "13.Oil - 1/4 cup ",
+                         "14.Salt - as needed "
+                         ],
+  
+		"Descriptipn": [
+                        "1.Grind coconut into a fine thick paste by adding little water as possible. ",
+                        
+                        "2.In a pan heat oil. Now mustard seeds, cumin seeds, curry leaves once the mustard seeds stop splattering add chopped onion and sauté until they are 3/4 cooked. NOTE: don't cook this to translucent or golden brown. ",
+                        
+                        "3.Now add the slit green chili and sauté until they turn color. ",
+                        
+                        "4.Now add the ginger paste, garlic paste and sauté until raw smell is gone. ",
+                        
+                        "5.Now add the chicken pieces, yogurt, little water if needed, salt to taste and cook the chicken. ",
+                        
+                        "6.Once the chicken is cooked well add the coconut paste and cook until the raw smell of the coconut is gone. ",
+                        
+                        "7.Now add coriander leaves, coriander powder and cook until the raw smell is gone and the right thickness is reached then serve. "
+                        ]
+  
+  }, {
+		"Recipe Name": "Chicken fry recipe",
+  
+  "Recipe Image":"Chickenfry.jpg",
+  
+		"Ingredidents": [
+                         "1.chicken - 1/2 kilogram",
+                         "2.Oil - to fry",
+                         "3.Onion - 1",
+                         "4.Hot green chilies - 2",
+                         "5.cumin seeds - 1 teaspoon (tsp) ",
+                         "6.vinegar - 2 teaspoon (tsp) ",
+                         "7.lemon juice - 1 teaspoon (tsp)",
+                         "8.ginger paste - 2 teaspoon (tsp)",
+                         "9.garlic paste - 2 teaspoon (tsp)",
+                         "10.Yogurt or Curd - 1 tablespoon (tbsp)",
+                         "11.Salt - to taste"
+                         ],
+  
+		"Descriptipn": [
+                        "1.Wash and cut the chicken meat into 1 inch cubes. ",
+                        
+                        "2.Grind all the ingredients except chicken and oil into a fine paste. ",
+                        
+                        "3.Marinate the chicken mixed with the ground paste in a bowl for 2 hours",
+                        
+                        "4.In a fryer or in a deep pan heat oil and fry the chicken pieces until done "
+                        ]
+  
+  }, {
+		"Recipe Name": "Chettinad Chicken recipe",
+  
+  "Recipe Image":"ChettinadChicken.jpg",
+  
+		"Ingredidents": [
+                         "1.Chicken pieces - 1 kilogram ",
+                         "2.onion - 1 1/2 cup ",
+                         "3.tomato - 1 cup chopped ",
+                         "4.garlic - 20 cloves  ",
+                         "5.ginger - 1 inch piece  ",
+                         "6.pepper - 2 teaspoon (tsp.)  ",
+                         "7.cumin seeds - 2 teaspoon (tsp.)  ",
+                         "8.fennel seed  - 2 teaspoon (tsp.)",
+                         "9.coriander powder - 1/4 cup ",
+                         "10.chili powder - 1/2 small cup ",
+                         "11.cloves - 3  ",
+                         "12.tamarind - As required or one small lemon size ",
+                         "13.salt - to taste ",
+                         "14.oil - 5 tablespoon (tbsp.)"
+                         ],
+  
+		"Descriptipn": [
+                        "1.wash the chicken and cut to pieces. ",
+                        
+                        "2.mince garlic and ginger.",
+                        
+                        "3.powder pepper, cumin seeds and fennel together. ",
+                        
+                        "4.fry the powders lightly and keep aside. ",
+                        
+                        "5.season cloves in oil in a frying pan, add onion and tomato.  ",
+                        
+                        "6.sauté well adding minced garlic and ginger. ",
+                        
+                        "7.add chicken with little turmeric powder and cook for 10 minutes.",
+                        
+                        "8,add chili, coriander powders, salt and mix well. ",
+                        
+                        "9.pour 4 cups of water and boil.",
+                        
+                        "10.when chicken is half boiled, add the half fried pepper, cumin seed and fennel powder and mix well. ",
+                        
+                        "11.when the gravy thickens to a paste, remove from fire. ",
+                        
+                        "12.Serve hot"
+                        ]
+  }
+  
+  ]
